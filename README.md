@@ -6,7 +6,7 @@
 
 Monster AI:
 
-![Roaming](roaming.gif)
+![Roaming](img/roaming.gif)
 
 ![Detecting-Edge](d-edge.gif)
 
