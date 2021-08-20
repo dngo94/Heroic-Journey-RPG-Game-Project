@@ -8,15 +8,21 @@ Monster AI:
 
 ![Roaming](img/roaming.gif)
 
-![Detecting-Edge](d-edge.gif)
+![Detecting-Edge](img/d-edge.gif)
 
-![Detecting-Wall](d-wall.gif)
+![Detecting-Wall](img/d-wall.gif)
 
 In-game Demo:
 
-![Demo1](demo1.gif)
+![Demo1](img/demo1.gif)
 
-![Demo2](demo2.gif)
+![Demo2](img/demo2.gif)
+
+![Demo3](img/demo3.gif)
+
+![Demo4](img/demo4.gif)
+
+![Demo5](img/demo5.gif)
 
 Emails:
 ● Daisy Ngo: dngo94@csu.fullerton.edu - Leader/Programmer/Notetaker
