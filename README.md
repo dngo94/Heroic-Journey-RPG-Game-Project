@@ -26,8 +26,11 @@ In-game Demo:
 
 Emails:
 ● Daisy Ngo: dngo94@csu.fullerton.edu - Leader/Programmer/Notetaker
+
 ● Gordon Dan: gdan189@csu.fullerton.edu - Programmer/Notetaker
+
 ● Jacqueline Kubiak: jkubs@csu.fullerton.edu - Programmer/Notetaker
+
 ● Pola Eskandar: billy.schoolofficial@gmail.com - Stakeholder/Programmer
 
 
