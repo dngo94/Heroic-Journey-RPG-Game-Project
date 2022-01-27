@@ -1,8 +1,8 @@
 # RPG-CSUF-2020 RPG game project using Godot Engine.
 - My contribution as a Leader/Programmer for a collab RPG Game project which is called Heroic Journey. 
-    + Source code of main character and enemies:
+    + Source code of main character and enemies
 - Some higlights:
-    + Implemented A.I for enemies that they will able to roam freely, actively search for and chase main player.
+    + Implemented A.I for enemies that they are able to roam freely, actively search for and chase main player.
 
 Monster AI:
 
